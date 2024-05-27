@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/map-generator](https://github.com/prescientmoon/map-generator) 🚧
 # Map generator
 
 This is a basic map generator made in 1 week for the code community code jam
